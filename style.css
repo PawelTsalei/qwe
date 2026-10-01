@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+#glowna{margin: 0; padding: 0;
+display: flex;}
+#prawa{display: flex;width: 70%;height: 500px;}
+header{background-color: red; height: 20%;padding: 1px;}
+#pdolna{background-color: pink; height: 80%;padding: 1px;}
+#centralna{background-color: violet;width: 25%;}
+#lewa{width: 30%;height: 500px;}
+#lgorna{background-color: paleturquoise;height: 70%;padding: 1px;}
+#ldolna{background-color: palevioletred;height: 30%; padding: 1px;}
+footer{background-color: aqua;height: 150px;padding: 1px;}
+#prawa1{width: 75%;}
